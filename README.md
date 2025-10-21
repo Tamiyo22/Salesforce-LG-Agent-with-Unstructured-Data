@@ -10,10 +10,13 @@ This is a basic Salesforce Agent prototype I created out of curiosity, to experi
 <img width="348" height="547" alt="14day" src="https://github.com/user-attachments/assets/77288589-03ae-4854-afbe-6913016f228d" />
 
 
-https://www.loom.com/share/973add1ae3b142a4b4b0c870a45de8e2?sid=66ef7f84-c212-4f92-b92e-60b6052b8f20
 
 Built an end-to-end Salesforce Data Cloud solution that ingests unstructured data from AWS S3, transforms it into usable insights through Data Lake Objects (DLOs) and Data Model Objects (DMOs), and powers a dynamic AgentForce AI agent deployed on a Salesforce Experience Site for interactive user access.
 
+
+
+## 🎬 Demo
+🎥 [Watch the AgentForce Project Demo on Loom](https://www.loom.com/share/973add1ae3b142a4b4b0c870a45de8e2?sid=66ef7f84-c212-4f92-b92e-60b6052b8f20)
 
 
 
