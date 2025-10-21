@@ -2,8 +2,6 @@
 
 📝 Description
 
-Built an end-to-end Salesforce Data Cloud solution that ingests unstructured data from AWS S3, transforms it into usable insights through Data Lake Objects (DLOs) and Data Model Objects (DMOs), and powers a dynamic AgentForce AI agent deployed on a Salesforce Experience Site for interactive user access.
-
 This is a basic Salesforce Agent prototype I created out of curiosity, to experiment with building a data lake connection between AWS S3 and Salesforce Data Cloud, and to explore how unstructured data can be leveraged and structured while training intelligent agents.
 
 
@@ -13,6 +11,10 @@ This is a basic Salesforce Agent prototype I created out of curiosity, to experi
 
 
 https://www.loom.com/share/973add1ae3b142a4b4b0c870a45de8e2?sid=66ef7f84-c212-4f92-b92e-60b6052b8f20
+
+Built an end-to-end Salesforce Data Cloud solution that ingests unstructured data from AWS S3, transforms it into usable insights through Data Lake Objects (DLOs) and Data Model Objects (DMOs), and powers a dynamic AgentForce AI agent deployed on a Salesforce Experience Site for interactive user access.
+
+
 
 
 
